@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <KutybaIt_InvoiceCostIncludeShipping>
+            <active>true</active>
+            <codePool>community</codePool>
+        </KutybaIt_InvoiceCostIncludeShipping>
+    </modules>
+</config>
